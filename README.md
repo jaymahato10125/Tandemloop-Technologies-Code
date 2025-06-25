@@ -1,5 +1,4 @@
-Tandemloop Technologies Code
-Programming Language
+
 This project is written in C++.
 
 Project Structure
